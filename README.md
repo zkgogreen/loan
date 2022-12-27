@@ -1,6 +1,6 @@
 # Loan approval
 - Source : https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior
-- Streamlit : https://zkgogreen-loan-index-9fdizu.streamlit.app/
+- Streamlit : [https://zkgogreen-loan-index-9fdizu.streamlit.app/](https://zkgogreen-loan-index-g0ak06.streamlit.app/)
 - Test on website : https://zktechno/data/loan
 
 # about data
